@@ -24,3 +24,9 @@ C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debu
 C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debug\net6.0\Connex_Sample_Project.dll
 C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debug\net6.0\ref\Connex_Sample_Project.dll
 C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debug\net6.0\Connex_Sample_Project.pdb
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debug\net6.0\Connex_Sample_Project.csproj.AssemblyReference.cache
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\bin\Debug\net6.0\Connex_Sample_Project.deps.json
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\bin\Debug\net6.0\Connex_Sample_Project.runtimeconfig.json
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\bin\Debug\net6.0\ref\Connex_Sample_Project.dll
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\bin\Debug\net6.0\Connex_Sample_Project.pdb
+C:\Users\gilme\source\repos\Connex_Sample_Project\Connex_Sample_Project\obj\Debug\net6.0\Connex_Sample_Project.genruntimeconfig.cache
